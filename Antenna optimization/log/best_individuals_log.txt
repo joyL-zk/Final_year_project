@@ -1,0 +1,59 @@
+Iteration 1:
+Best Individual: [ 2.56095946  9.55301992  4.51018718 10.47469574  1.82607211  9.71534154
+  3.45636287 10.49802489 19.69634784 10.01018382]
+Best Fitness: 3.5636672973632812
+Iteration 1:
+Best Individual: [ 2.51310214  9.99332803  4.50337457 10.46024583  2.          9.75585543
+  3.17491125 10.45354707 20.1627275   9.53303929]
+Best Fitness: 0.0
+Iteration 1:
+Best Individual: [ 2.51167123 10.          4.50236102 10.49835907  1.75115649 10.43694299
+  2.53356854 10.47416404 19.83116011  9.51889189]
+Best Fitness: 2.284374237060547
+Iteration 2:
+Best Individual: [ 2.04503064 10.          4.01224183 10.96322958  2.17197025 10.83185303
+  2.07743317 10.96892878 19.39214656  9.34387484]
+Best Fitness: 0.0
+Iteration 3:
+Best Individual: [ 2.54061332 10.          3.5214933  11.45093034  2.65985178 10.45263724
+  2.53220497 11.44191231 18.93575446  8.85576946]
+Best Fitness: 8.646907806396484
+Iteration 4:
+Best Individual: [ 2.0846524  10.          3.03139629 11.23090101  3.14264095  9.96450398
+  2.12008012 11.90072513 19.42037959  8.49832676]
+Best Fitness: 2.4556655883789062
+Iteration 5:
+Best Individual: [ 2.09433824  9.88419154  2.68284887 11.72740869  3.62038813  9.99811192
+  2.         11.43914831 19.10789127  8.85677085]
+Best Fitness: 0.0
+Iteration 1:
+Best Individual: [ 2.5  5.5  8.8 16.   2.3 12.2  2.6 11.4 19.  12.8]
+Best Fitness: 0.0
+Iteration 2:
+Best Individual: [ 3.9  2.7  5.7 14.6  3.9 13.   2.7 11.8 17.4  8.2]
+Best Fitness: 0.0
+Iteration 3:
+Best Individual: [ 2.8  5.4  3.6 12.3  3.  13.4  3.3 11.7 26.5  6.1]
+Best Fitness: 0.0
+Iteration 4:
+Best Individual: [ 4.4  6.6  9.  17.9  2.1  8.7  2.4 11.7 10.8  5.1]
+Best Fitness: 0.0
+Iteration 5:
+Best Individual: [ 2.29047699  7.95522414  4.8        16.23785833  4.25248572 10.8
+  2.64983692 12.         24.54659014 14.9075216 ]
+Best Fitness: 0.0
+Iteration 6:
+Best Individual: [ 2.6  2.3  4.   8.6  4.6  6.2  3.  11.8 16.8 11.1]
+Best Fitness: 0.0
+Iteration 7:
+Best Individual: [ 3.2  8.   3.7 17.7  3.4 12.6  2.3 11.6 11.4 11.3]
+Best Fitness: 0.0
+Iteration 8:
+Best Individual: [ 2.2  9.6  3.1  8.8  4.1 13.4  3.8 11.8 11.9  6.6]
+Best Fitness: 0.0
+Iteration 9:
+Best Individual: [ 2.9  5.7  7.4 17.2  2.6  5.9  2.2 11.9 20.   6.2]
+Best Fitness: 0.0
+Iteration 10:
+Best Individual: [ 2.6  5.1  3.5  8.2  4.6  9.3  3.  11.4 16.6  8.6]
+Best Fitness: 0.0

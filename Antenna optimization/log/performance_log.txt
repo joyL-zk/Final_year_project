@@ -1,0 +1,40 @@
+Iteration 1:
+dm_matching @ 140GHz: -19.4812012728843
+cm_matching @ 140GHz: -18.3388053832898
+dm_isolation @ 140GHz: -66.8158519117765
+Iteration 2:
+dm_matching @ 140GHz: -27.6420314493707
+cm_matching @ 140GHz: -25.7764479523704
+dm_isolation @ 140GHz: -57.3204695124893
+Iteration 3:
+dm_matching @ 140GHz: -14.8174604734811
+cm_matching @ 140GHz: -39.9385434014711
+dm_isolation @ 140GHz: -69.3065043039588
+Iteration 4:
+dm_matching @ 140GHz: -19.9209582953063
+cm_matching @ 140GHz: -18.9561311725755
+dm_isolation @ 140GHz: -59.7077392751071
+Iteration 5:
+dm_matching @ 140GHz: -15.2147073556666
+cm_matching @ 140GHz: -42.3967370389927
+dm_isolation @ 140GHz: -62.8296919091667
+Iteration 6:
+dm_matching @ 140GHz: -18.4070934332962
+cm_matching @ 140GHz: -20.8686927368063
+dm_isolation @ 140GHz: -69.474265903132
+Iteration 7:
+dm_matching @ 140GHz: -16.0353145514224
+cm_matching @ 140GHz: -23.0104858860092
+dm_isolation @ 140GHz: -66.5689614714231
+Iteration 8:
+dm_matching @ 140GHz: -10.0143067480159
+cm_matching @ 140GHz: -28.1798585644082
+dm_isolation @ 140GHz: -84.3937552470038
+Iteration 9:
+dm_matching @ 140GHz: -18.1078264546754
+cm_matching @ 140GHz: -22.3164692400717
+dm_isolation @ 140GHz: -66.9607838766344
+Iteration 10:
+dm_matching @ 140GHz: -16.7562685378227
+cm_matching @ 140GHz: -22.4966280922699
+dm_isolation @ 140GHz: -79.2240940713384

@@ -2,6 +2,9 @@
 A Framework for optimizing Antenna using Deep learning and GA
 ### A simple script about calling HFSS 
 hfss_script_1029.py----use PyAEDT library
+
+or
+
 first_script_1028.py----use HFSS 'Tools/Record script to file'
 
 We used the recording script function in HFSS to build the HFSS library based on python code, which recorded most of the operations using HFSS, including model construction, parameter scanning, setting up simulation analysis, etc. Due to laboratory requirements, the library is not open source, but you can create it by yourself according to the above method or just use "PyAEDT library".
